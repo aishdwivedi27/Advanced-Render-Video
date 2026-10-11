@@ -84,7 +84,11 @@ Both versions use the same 10 renders and music track. Both are vertical 1080×1
 
 | | v1 (first try) | v2 (current) |
 |---|---|---|
-| Video | [v1_house_tour_vertical.mp4](comparison/v1_house_tour_vertical.mp4) | [v2_house_tour_vertical.mp4](comparison/v2_house_tour_vertical.mp4) |
+| Video | [
+
+https://github.com/user-attachments/assets/8e3e946e-7b18-4ffa-89f2-e0594a8cd3e6
+
+ | [▶ Watch in the Demo section |
 | Workflow | One pass: brief in, video out | Plan, human approval, then build |
 | Built for | Landscape first, vertical as a second export | Vertical first, framed for 9:16 |
 | Running time | 34 s | 28 s |
