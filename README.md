@@ -10,7 +10,11 @@ Drop in still renders and a music track, describe the property, and the agent pl
 
 > 28-second vertical house tour, generated from 10 still renders and one music track.
 
-[▶ Watch the demo video](properties/01-house-tour/output/house_tour_vertical.mp4)
+[]
+
+https://github.com/user-attachments/assets/5b71dd9a-c3e2-46c1-9817-6014ed58b3b3
+
+
 
 <!-- Tip: for an inline player, edit this README on GitHub and drag the .mp4 into the editor. GitHub will replace this line with an embedded video. -->
 
