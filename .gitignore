@@ -1,0 +1,31 @@
+# Private working files
+*prompt*.txt
+*Prompt*.txt
+*prompt*.md
+!prompts/prompt.example.md
+properties/*/work/
+
+# Editor / agent config
+.claude/
+CLAUDE.md
+AGENTS.md
+.vscode/
+
+# Build & intermediate output
+*.html
+*.mjs
+package.json
+package-lock.json
+node_modules/
+renders/
+snapshots/
+*_master.mp4
+master.mp4
+
+# General
+.env
+.env.*
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store
